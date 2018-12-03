@@ -1,0 +1,2 @@
+# hiprogram
+display hi
